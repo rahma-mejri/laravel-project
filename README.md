@@ -34,7 +34,7 @@
 * [Artisan language](https://github.com/bestmomo/laravel-artisan-language) the package for language strings management
 * [Laravel debugbar](https://github.com/barryvdh/laravel-debugbar)
 * [Etrepat baum](https://github.com/etrepat/baum) for comments management
-
+erhwthtg
 ### Features ###
 
 * Home page
